@@ -1,0 +1,35 @@
+table,
+th,
+td {
+  border: 2px solid white;
+}
+.restante {
+  color: rgb(227, 135, 15);
+}
+.ingresos {
+  color: rgb(1, 199, 1);
+}
+.egresos {
+  color: rgb(255, 0, 0);
+}
+.total {
+  color: rgb(255, 213, 0);
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 3px;
+  text-align: center;
+  border: 2px solid #ddd;
+}
+@media (max-width:765px){
+    table {
+        max-width  :90vw;  
+        width      :90vw; 
+        font-size  :3vw;  
+    }
+}
