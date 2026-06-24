@@ -7,7 +7,7 @@ td {
   color: rgb(227, 135, 15);
 }
 .ingresos {
-  color: rgb(1, 199, 1);
+  color: rgb(0, 255, 0);
 }
 .egresos {
   color: rgb(255, 0, 0);
@@ -28,8 +28,8 @@ table td {
 }
 @media (max-width:765px){
     table {
-        max-width  :90vw;  
-        width      :90vw; 
+        max-width  :80vw;  
+        width      :80vw; 
         font-size  :3vw;  
     }
 }
