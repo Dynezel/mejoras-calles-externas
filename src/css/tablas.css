@@ -19,7 +19,7 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-
+ad honorem
 table th,
 table td {
   padding: 3px;
@@ -30,6 +30,6 @@ table td {
     table {
         max-width  :80vw;  
         width      :80vw; 
-        font-size  :3vw;  
+        font-size  :4vw;  
     }
 }
