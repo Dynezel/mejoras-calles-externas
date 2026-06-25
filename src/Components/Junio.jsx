@@ -165,6 +165,15 @@ export default function Junio() {
                         <td></td>
                         <td>550.000</td>
                     </tr>
+                    <tr>
+                        <td>24/06</td>
+                        <td className="ingresos">
+                            Claudia Mazzini
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>570.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
