@@ -3,7 +3,7 @@ import React from 'react'
 export default function Junio() {
     return (
         <div>
-            <h3>Mes de Junio</h3>
+            <h3>Mes de Junio y Julio</h3>
             <table>
                 <thead>
                     <tr>
@@ -173,6 +173,33 @@ export default function Junio() {
                         <td>20.000</td>
                         <td></td>
                         <td>570.000</td>
+                    </tr>
+                    <tr>
+                        <td>25/06</td>
+                        <td className="ingresos">
+                            Mario Silva
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>590.000</td>
+                    </tr>
+                    <tr>
+                        <td>30/06</td>
+                        <td className="ingresos">
+                            Cristian Irala
+                        </td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>640.000</td>
+                    </tr>
+                    <tr>
+                        <td>01/07</td>
+                        <td className="ingresos">
+                            Maria Delgado
+                        </td>
+                        <td>100.000</td>
+                        <td></td>
+                        <td>740.000</td>
                     </tr>
                 </tbody>
             </table>
