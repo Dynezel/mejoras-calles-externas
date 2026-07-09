@@ -219,6 +219,69 @@ export default function Junio() {
                         <td></td>
                         <td>780.000</td>
                     </tr>
+                    <tr>
+                        <td>06/07</td>
+                        <td className="ingresos">
+                            Cecilia Patricia Sosa
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>800.000</td>
+                    </tr>
+                    <tr>
+                        <td>07/07</td>
+                        <td className="ingresos">
+                            Julian Oviedo
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>820.000</td>
+                    </tr>
+                    <tr>
+                        <td>07/07</td>
+                        <td className="ingresos">
+                            Ana Rodriguez
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>840.000</td>
+                    </tr>
+                    <tr>
+                        <td>07/07</td>
+                        <td className="ingresos">
+                            Omar Walter Martinez
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>860.000</td>
+                    </tr>
+                    <tr>
+                        <td>08/07</td>
+                        <td className="ingresos">
+                            Candela Maesani
+                        </td>
+                        <td>10.000</td>
+                        <td></td>
+                        <td>870.000</td>
+                    </tr>
+                    <tr>
+                        <td>09/07</td>
+                        <td className="ingresos">
+                           Jose Luis Vitaller
+                        </td>
+                        <td>30.000</td>
+                        <td></td>
+                        <td>900.000</td>
+                    </tr>
+                    <tr>
+                        <td>09/07</td>
+                        <td className="ingresos">
+                           Maidana Alberto
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>920.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
