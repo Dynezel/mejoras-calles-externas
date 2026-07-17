@@ -318,6 +318,42 @@ export default function Junio() {
                         <td></td>
                         <td>1.120.000</td>
                     </tr>
+                    <tr>
+                        <td>17/07</td>
+                        <td className="ingresos">
+                           Martin Taype
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>1.140.000</td>
+                    </tr>
+                    <tr>
+                        <td>17/07</td>
+                        <td className="ingresos">
+                           Johana Gonzalez
+                        </td>
+                        <td>25.000</td>
+                        <td></td>
+                        <td>1.165.000</td>
+                    </tr>
+                    <tr>
+                        <td>17/07</td>
+                        <td className="ingresos">
+                           Oscar Acevedo
+                        </td>
+                        <td>30.000</td>
+                        <td></td>
+                        <td>1.195.000</td>
+                    </tr>
+                    <tr>
+                        <td>17/07</td>
+                        <td className="ingresos">
+                           Francis Diaz
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>1.215.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
