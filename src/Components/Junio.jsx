@@ -282,6 +282,42 @@ export default function Junio() {
                         <td></td>
                         <td>920.000</td>
                     </tr>
+                    <tr>
+                        <td>12/07</td>
+                        <td className="ingresos">
+                           Sandra Acosta
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>940.000</td>
+                    </tr>
+                    <tr>
+                        <td>15/07</td>
+                        <td className="ingresos">
+                           Victoria Rojas
+                        </td>
+                        <td>150.000</td>
+                        <td></td>
+                        <td>1.090.000</td>
+                    </tr>
+                    <tr>
+                        <td>15/07</td>
+                        <td className="ingresos">
+                           Candela Maesani
+                        </td>
+                        <td>10.000</td>
+                        <td></td>
+                        <td>1.100.000</td>
+                    </tr>
+                    <tr>
+                        <td>17/07</td>
+                        <td className="ingresos">
+                           Nancy Veronica Mediavilla
+                        </td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>1.120.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
