@@ -354,6 +354,22 @@ export default function Junio() {
                         <td></td>
                         <td>1.215.000</td>
                     </tr>
+                    <tr>
+                        <td>18/07</td>
+                        <td className="ingresos">
+                           Moises Ganoza
+                        </td>
+                        <td>45.000</td>
+                        <td></td>
+                        <td>1.260.000</td>
+                    </tr>
+                    <tr>
+                        <td>23/07</td>
+                        <td className="total">TOTAL JUNIO Y JULIO</td>
+                        <td></td>
+                        <td></td>
+                        <td className="total">1.260.000</td>
+                    </tr>
                 </tbody>
             </table>
         </div >
