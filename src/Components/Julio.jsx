@@ -50,6 +50,13 @@ export default function Julio() {
                         <td></td>
                         <td>1.500.000</td>
                     </tr>
+                    <tr>
+                        <td>24/07</td>
+                        <td className="ingresos">Yamila Gartner</td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>1.550.000</td>
+                    </tr>
                 </tbody>
                 </table>
         </div>
