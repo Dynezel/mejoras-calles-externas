@@ -1,12 +1,10 @@
 import { useState } from 'react'
 import './App.css'
-import Febrero from './Components/Febrero'
+import './css/tablas.css'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
-import Marzo from './Components/Marzo'
 import Navbar from './Components/Navbar'
-import Abril from './Components/Abril'
-import Mayo from './Components/Mayo'
 import Junio from './Components/Junio'
+import Julio from './Components/Julio'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,7 +14,9 @@ function App() {
       <BrowserRouter>
       <Navbar/>
         <Routes>
-          <Route path="/" element={<Junio/>} />
+          <Route path="/" element={<Julio/>} />
+          <Route path="/junio" element={<Junio/>} />
+          <Route path="/julio" element={<Julio/>} />
         </Routes>
       </BrowserRouter>
     </>
