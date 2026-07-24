@@ -365,7 +365,7 @@ export default function Junio() {
                     </tr>
                     <tr>
                         <td>23/07</td>
-                        <td className="total">TOTAL JUNIO Y JULIO</td>
+                        <td className="total">Total Junio y Julio</td>
                         <td></td>
                         <td></td>
                         <td className="total">1.260.000</td>
