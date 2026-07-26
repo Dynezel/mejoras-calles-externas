@@ -57,6 +57,13 @@ export default function Julio() {
                         <td></td>
                         <td>1.550.000</td>
                     </tr>
+                    <tr>
+                        <td>25/07</td>
+                        <td className="egresos">Pago de las Piedras y Maquina</td>
+                        <td></td>
+                        <td>1.550.000</td>
+                        <td>0</td>
+                    </tr>
                 </tbody>
                 </table>
         </div>
