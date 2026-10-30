@@ -11,10 +11,7 @@ export default function Navbar() {
         {
         const mes = event.target.value
         setValue(mes)
-        if(mes == "/junio") {
-            navigate(mes)
-        }
-        if(mes == "/julio") {
+        if(value !== null) {
             navigate(mes)
         }
     }
@@ -24,8 +21,11 @@ export default function Navbar() {
         <nav className='navbar'>
             <select value={value} onChange={handleChange}>
             <option value="default" className='enlace-resumen'> Elegí un Mes para ver el resumen </option> 
-            <option value="/junio" className='enlace-resumen'> Resumen del Mes de Junio y Julio</option>
-            <option value="/julio" className='enlace-resumen'> Resumen del Mes de Julio y Agosto</option>
+            <option value="/junio" className='enlace-resumen'> Resumen del Mes de Junio</option>
+            <option value="/julio" className='enlace-resumen'> Resumen del Mes de Julio</option>
+            <option value="/agosto" className='enlace-resumen'> Resumen del Mes de Agosto</option>
+            <option value="/septiembre" className='enlace-resumen'> Resumen del Mes de Septiembre</option>
+            <option value="/octubre" className='enlace-resumen'> Resumen del Mes de Octubre</option>
             </select>
             <h2>Aportes Para La Mejora de las Calles</h2>
         </nav>
