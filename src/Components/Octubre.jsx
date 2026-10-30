@@ -71,6 +71,13 @@ export default function Octubre() {
                         <td></td>
                         <td>310.000</td>
                     </tr>
+                    <tr>
+                        <td>30/10</td>
+                        <td className="ingresos">Claudia Mazzini</td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>330.000</td>
+                    </tr>
                     {/* <tr>
                         <td>30/10</td>
                         <td className="total">Saldo Final Julio</td>
