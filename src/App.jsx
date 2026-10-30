@@ -17,7 +17,7 @@ function App() {
       <BrowserRouter>
       <Navbar/>
         <Routes>
-          <Route path="/" element={<Julio/>} />
+          <Route path="/" element={<Octubre/>} />
           <Route path="/junio" element={<Junio/>} />
           <Route path="/julio" element={<Julio/>} />
           <Route path="/agosto" element={<Agosto />} />
