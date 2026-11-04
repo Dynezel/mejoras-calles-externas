@@ -64,6 +64,27 @@ export default function Noviembre() {
                         <td></td>
                         <td>580.000</td>
                     </tr>
+                    <tr>
+                        <td>04/11</td>
+                        <td className="ingresos">Sandra Acosta</td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>600.000</td>
+                    </tr>
+                    <tr>
+                        <td>04/11</td>
+                        <td className="ingresos">Monica Urquiza</td>
+                        <td>20.000</td>
+                        <td></td>
+                        <td>620.000</td>
+                    </tr>
+                    <tr>
+                        <td>04/11</td>
+                        <td className="ingresos">Isabel Gonzalez</td>
+                        <td>50.000</td>
+                        <td></td>
+                        <td>670.000</td>
+                    </tr>
                 </tbody>
                 </table>
         </div>
