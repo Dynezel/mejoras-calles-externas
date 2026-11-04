@@ -8,6 +8,7 @@ import Julio from './Components/Julio'
 import Agosto from './Components/Agosto'
 import Septiembre from './Components/Septiembre'
 import Octubre from './Components/Octubre'
+import Noviembre from './Components/Noviembre'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,12 +18,13 @@ function App() {
       <BrowserRouter>
       <Navbar/>
         <Routes>
-          <Route path="/" element={<Octubre/>} />
+          <Route path="/" element={<Noviembre/>} />
           <Route path="/junio" element={<Junio/>} />
           <Route path="/julio" element={<Julio/>} />
           <Route path="/agosto" element={<Agosto />} />
           <Route path="/septiembre" element={<Septiembre/>} />
           <Route path="/octubre" element={<Octubre />} />
+          <Route path="/noviembre" element={<Noviembre />} />
         </Routes>
       </BrowserRouter>
     </>
