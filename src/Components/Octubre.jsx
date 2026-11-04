@@ -99,13 +99,13 @@ export default function Octubre() {
                         <td></td>
                         <td>430.000</td>
                     </tr>
-                    {/* <tr>
+                    <tr>
                         <td>30/10</td>
-                        <td className="total">Saldo Final Julio</td>
+                        <td className="total">Saldo Final Octubre</td>
                         <td></td>
                         <td></td>
-                        <td className="total">80.000</td>
-                    </tr> */}
+                        <td className="total">430.000</td>
+                    </tr>
                 </tbody>
                 </table>
         </div>

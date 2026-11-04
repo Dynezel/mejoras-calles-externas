@@ -26,6 +26,7 @@ export default function Navbar() {
             <option value="/agosto" className='enlace-resumen'> Resumen del Mes de Agosto</option>
             <option value="/septiembre" className='enlace-resumen'> Resumen del Mes de Septiembre</option>
             <option value="/octubre" className='enlace-resumen'> Resumen del Mes de Octubre</option>
+            <option value="/noviembre" className='enlace-resumen'> Resumen del Mes de Noviembre</option>
             </select>
             <h2>Aportes Para La Mejora de las Calles</h2>
         </nav>
